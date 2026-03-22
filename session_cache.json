@@ -1,0 +1,16 @@
+{
+  "active_user": {
+    "1": {
+      "sid": "0dc7dbc1-7e9b-4324-8394-b172354adc6a",
+      "username": "1",
+      "machine_id": "DMSNM-DES-0130-CL402",
+      "started": "2026-03-05T06:52:18Z",
+      "hb": "2026-03-05T07:11:27Z",
+      "hb_epoch": 1772694687.676833
+    }
+  },
+  "user_binding": {
+    "1": "DMSNM-DES-0130-CL402"
+  },
+  "saved_at": "2026-03-05T07:11:27Z"
+}
